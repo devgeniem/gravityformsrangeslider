@@ -1,0 +1,17 @@
+{
+    "name": "devgeniem/gravityformsrangeslider",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "description": "Gravity Forms Range Slider Plugin",
+    "authors": [
+      {
+        "name": "sh-themes",
+        "homepage": "https://github.com/hiilite/gravityformsrangeslider",
+        "role": "Developer"
+      }
+    ],
+    "keywords": [
+      "wordpress", "wp", "plugin"
+    ]
+  }
+  
